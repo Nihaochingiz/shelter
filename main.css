@@ -298,8 +298,8 @@
   padding: 1.9rem;
   background: none;
   position: absolute;
-  margin-top: -15.7%;
-  margin-left: -10%;
+  margin-top: -8.4%;
+  margin-left: -7.2%;
 }
 
 .slider-button__reverted {
@@ -311,7 +311,7 @@
           transform: rotate(180deg);
   margin-left: 50%;
   position: absolute;
-  margin-top: -15.7%;
+  margin-top: -7.2%;
   margin-left: 63.8%;
 }
 

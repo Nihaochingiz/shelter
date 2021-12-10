@@ -385,11 +385,14 @@ flex-direction: column;
 
 .pets-cards {
     display: flex;
-    margin: 0 5px
+    margin: 0 5px;
+    
+    
 }
 
-.pets-card {
-    margin: 0 70px
+.pets-card{
+    margin: 0 70px;
+   
 }
 .pets-card__title {
     font-family: Georgia;
@@ -434,8 +437,9 @@ background-color: #fff;
     padding: 1.9rem;
     background: none;
     position: absolute;
-    margin-top:  -15.7%;
-    margin-left: -10%;
+    margin-top:  -8.4%;
+    margin-left: -7.2%;
+    
     
 
 }
@@ -448,7 +452,7 @@ background-color: #fff;
      transform:rotate(180deg);
      margin-left: 50%;
     position: absolute;
-    margin-top:  -15.7%;
+    margin-top:  -7.2%;
     margin-left: 63.8%;
     
     
